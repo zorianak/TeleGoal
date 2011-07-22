@@ -1,0 +1,253 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* TeleGoalAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavSelRange = "{285, 0}";
+			sepNavVisRange = "{0, 292}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* TeleGoalAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 247}}";
+			sepNavSelRange = "{55, 0}";
+			sepNavVisRange = "{0, 294}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* TeleGoal_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavSelRange = "{55, 0}";
+			sepNavVisRange = "{0, 173}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F4CC7CF7134E586A00F80409 /* TeleGoal */;
+		activeTarget = 8D1107260486CEB800E47090 /* TeleGoal */;
+		codeSenseManager = F4CC7D09134E586D00F80409 /* Code sense */;
+		executables = (
+			F4CC7CF7134E586A00F80409 /* TeleGoal */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 325264404;
+			PBXWorkspaceStateSaveDate = 325264404;
+		};
+		perUserProjectItems = {
+			F40D0409134EE6AC00B88EBD = F40D0409134EE6AC00B88EBD /* PBXTextBookmark */;
+			F4B9B8591363242F00709B72 /* PBXTextBookmark */ = F4B9B8591363242F00709B72 /* PBXTextBookmark */;
+			F4CC7D0F134E594200F80409 = F4CC7D0F134E594200F80409 /* PBXTextBookmark */;
+			F4CC7D10134E594200F80409 = F4CC7D10134E594200F80409 /* PBXTextBookmark */;
+			F4CC7D11134E594200F80409 = F4CC7D11134E594200F80409 /* PlistBookmark */;
+			F4CC7D12134E594200F80409 = F4CC7D12134E594200F80409 /* PBXTextBookmark */;
+			F4CC7D13134E594200F80409 = F4CC7D13134E594200F80409 /* PBXTextBookmark */;
+			F4CC7D14134E594200F80409 = F4CC7D14134E594200F80409 /* PBXTextBookmark */;
+			F4CC7D15134E594200F80409 = F4CC7D15134E594200F80409 /* PBXTextBookmark */;
+			F4CC7D17134E594200F80409 = F4CC7D17134E594200F80409 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F4CC7D08134E586D00F80409 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavSelRange = "{55, 0}";
+			sepNavVisRange = "{0, 243}";
+		};
+	};
+	8D1107260486CEB800E47090 /* TeleGoal */ = {
+		activeExec = 0;
+		executables = (
+			F4CC7CF7134E586A00F80409 /* TeleGoal */,
+		);
+	};
+	D53FFF8110EEBF2300519286 /* AppController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 364}}";
+			sepNavSelRange = "{55, 0}";
+			sepNavVisRange = "{0, 287}";
+		};
+	};
+	D53FFF8210EEBF2300519286 /* AppController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {438, 884}}";
+			sepNavSelRange = "{55, 0}";
+			sepNavVisRange = "{67, 1024}";
+		};
+	};
+	F40D0409134EE6AC00B88EBD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D53FFF8210EEBF2300519286 /* AppController.m */;
+		name = "AppController.m: 5";
+		rLen = 0;
+		rLoc = 55;
+		rType = 0;
+		vrLen = 296;
+		vrLoc = 0;
+	};
+	F4B9B8591363242F00709B72 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D53FFF8210EEBF2300519286 /* AppController.m */;
+		name = "AppController.m: 5";
+		rLen = 0;
+		rLoc = 55;
+		rType = 0;
+		vrLen = 313;
+		vrLoc = 149;
+	};
+	F4CC7CF7134E586A00F80409 /* TeleGoal */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TeleGoal;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F4CC7D08134E586D00F80409 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F4CC7D09134E586D00F80409 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F4CC7D0F134E594200F80409 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	F4CC7D10134E594200F80409 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 5";
+		rLen = 0;
+		rLoc = 55;
+		rType = 0;
+		vrLen = 243;
+		vrLoc = 0;
+	};
+	F4CC7D11134E594200F80409 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* TeleGoal-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/home/Library/Mail Downloads/TeleGoal/TeleGoal-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	F4CC7D12134E594200F80409 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3F00F4B6AF500CF3369 /* TeleGoal_Prefix.pch */;
+		name = "TeleGoal_Prefix.pch: 5";
+		rLen = 0;
+		rLoc = 55;
+		rType = 0;
+		vrLen = 173;
+		vrLoc = 0;
+	};
+	F4CC7D13134E594200F80409 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* TeleGoalAppDelegate.h */;
+		name = "TeleGoalAppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 285;
+		rType = 0;
+		vrLen = 292;
+		vrLoc = 0;
+	};
+	F4CC7D14134E594200F80409 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* TeleGoalAppDelegate.m */;
+		name = "TeleGoalAppDelegate.m: 5";
+		rLen = 0;
+		rLoc = 55;
+		rType = 0;
+		vrLen = 294;
+		vrLoc = 0;
+	};
+	F4CC7D15134E594200F80409 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D53FFF8110EEBF2300519286 /* AppController.h */;
+		name = "AppController.h: 5";
+		rLen = 0;
+		rLoc = 55;
+		rType = 0;
+		vrLen = 287;
+		vrLoc = 0;
+	};
+	F4CC7D17134E594200F80409 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D53FFF8210EEBF2300519286 /* AppController.m */;
+		name = "AppController.m: 5";
+		rLen = 0;
+		rLoc = 55;
+		rType = 0;
+		vrLen = 296;
+		vrLoc = 0;
+	};
+}

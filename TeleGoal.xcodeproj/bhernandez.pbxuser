@@ -1,0 +1,208 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {588, 428}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* IBOutletsAndActionsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {789, 501}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 353}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* IBOutletsAndActionsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {789, 501}}";
+			sepNavSelRange = "{417, 0}";
+			sepNavVisRange = "{0, 418}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = D5189FB010EE8158000D6452 /* IBOutletsAndActions */;
+		activeTarget = 8D1107260486CEB800E47090 /* IBOutletsAndActions */;
+		codeSenseManager = D5189FC210EE8171000D6452 /* Code sense */;
+		executables = (
+			D5189FB010EE8158000D6452 /* IBOutletsAndActions */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					588,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 284616052;
+			PBXWorkspaceStateSaveDate = 284616052;
+		};
+		perUserProjectItems = {
+			D504EFE810F6E58000C4B45A /* PBXTextBookmark */ = D504EFE810F6E58000C4B45A /* PBXTextBookmark */;
+			D5189FF410EEAF8C000D6452 /* PlistBookmark */ = D5189FF410EEAF8C000D6452 /* PlistBookmark */;
+			D5189FF510EEAF8C000D6452 /* PBXTextBookmark */ = D5189FF510EEAF8C000D6452 /* PBXTextBookmark */;
+			D574372210F46B3600D839EC /* PBXTextBookmark */ = D574372210F46B3600D839EC /* PBXTextBookmark */;
+			D5D034DC10EED02E0098F83F /* PBXTextBookmark */ = D5D034DC10EED02E0098F83F /* PBXTextBookmark */;
+			D5D034DD10EED02E0098F83F /* PBXTextBookmark */ = D5D034DD10EED02E0098F83F /* PBXTextBookmark */;
+			D5F2C6B210EFE11D00378C12 /* PBXTextBookmark */ = D5F2C6B210EFE11D00378C12 /* PBXTextBookmark */;
+		};
+		sourceControlManager = D5189FC110EE8171000D6452 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* IBOutletsAndActions */ = {
+		activeExec = 0;
+		executables = (
+			D5189FB010EE8158000D6452 /* IBOutletsAndActions */,
+		);
+	};
+	D504EFE810F6E58000C4B45A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D53FFF8210EEBF2300519286 /* AppController.m */;
+		name = "AppController.m: 44";
+		rLen = 0;
+		rLoc = 1989;
+		rType = 0;
+		vrLen = 2091;
+		vrLoc = 0;
+	};
+	D5189FB010EE8158000D6452 /* IBOutletsAndActions */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = IBOutletsAndActions;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	D5189FC110EE8171000D6452 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D5189FC210EE8171000D6452 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D5189FF410EEAF8C000D6452 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* IBOutletsAndActions-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/bhernandez/Xcode/IBOutletsAndActions/IBOutletsAndActions-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	D5189FF510EEAF8C000D6452 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	D53FFF8110EEBF2300519286 /* AppController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {766, 633}}";
+			sepNavSelRange = "{1411, 0}";
+			sepNavVisRange = "{0, 1568}";
+			sepNavWindowFrame = "{{3, 460}, {812, 715}}";
+		};
+	};
+	D53FFF8210EEBF2300519286 /* AppController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {766, 702}}";
+			sepNavSelRange = "{1989, 0}";
+			sepNavVisRange = "{0, 2091}";
+			sepNavWindowFrame = "{{368, 432}, {794, 715}}";
+		};
+	};
+	D574372210F46B3600D839EC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D53FFF8210EEBF2300519286 /* AppController.m */;
+		name = "AppController.m: 44";
+		rLen = 0;
+		rLoc = 1989;
+		rType = 0;
+		vrLen = 2090;
+		vrLoc = 0;
+	};
+	D5D034DC10EED02E0098F83F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* IBOutletsAndActionsAppDelegate.m */;
+		name = "IBOutletsAndActionsAppDelegate.m: 19";
+		rLen = 0;
+		rLoc = 417;
+		rType = 0;
+		vrLen = 418;
+		vrLoc = 0;
+	};
+	D5D034DD10EED02E0098F83F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* IBOutletsAndActionsAppDelegate.h */;
+		name = "IBOutletsAndActionsAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 353;
+		vrLoc = 0;
+	};
+	D5F2C6B210EFE11D00378C12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D53FFF8110EEBF2300519286 /* AppController.h */;
+		name = "AppController.h: 32";
+		rLen = 0;
+		rLoc = 1411;
+		rType = 0;
+		vrLen = 1568;
+		vrLoc = 0;
+	};
+}

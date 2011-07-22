@@ -1,0 +1,305 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {692, 367}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* TeleGoalAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {995, 610}}";
+			sepNavSelRange = "{242, 0}";
+			sepNavVisRange = "{0, 294}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* TeleGoalAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {995, 610}}";
+			sepNavSelRange = "{286, 0}";
+			sepNavVisRange = "{0, 296}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* TeleGoal_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {692, 270}}";
+			sepNavSelRange = "{26, 0}";
+			sepNavVisRange = "{0, 175}";
+			sepNavWindowFrame = "{{15, 465}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9ACEF027134C4455009E6F34 /* TeleGoal */;
+		activeTarget = 8D1107260486CEB800E47090 /* TeleGoal */;
+		breakpoints = (
+		);
+		codeSenseManager = 9ACEF039134C4456009E6F34 /* Code sense */;
+		executables = (
+			9ACEF027134C4455009E6F34 /* TeleGoal */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					402,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					817,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					490,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					474,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 323854034;
+			PBXWorkspaceStateSaveDate = 323854034;
+		};
+		perUserProjectItems = {
+			9A834191134C4ECC00033A6D /* PBXTextBookmark */ = 9A834191134C4ECC00033A6D /* PBXTextBookmark */;
+			9ABC167D134DA31E00672A1D /* PBXTextBookmark */ = 9ABC167D134DA31E00672A1D /* PBXTextBookmark */;
+			9ABC167E134DA31E00672A1D /* PBXTextBookmark */ = 9ABC167E134DA31E00672A1D /* PBXTextBookmark */;
+			9ABC167F134DA31E00672A1D /* PBXTextBookmark */ = 9ABC167F134DA31E00672A1D /* PBXTextBookmark */;
+			9ABC16DC134DA75400672A1D /* PBXTextBookmark */ = 9ABC16DC134DA75400672A1D /* PBXTextBookmark */;
+			9ABC16DF134DA7EF00672A1D /* PBXTextBookmark */ = 9ABC16DF134DA7EF00672A1D /* PBXTextBookmark */;
+			9ABC16E0134DA7EF00672A1D /* PBXTextBookmark */ = 9ABC16E0134DA7EF00672A1D /* PBXTextBookmark */;
+			9AE2F5B0134C4BC2004F80BB /* PlistBookmark */ = 9AE2F5B0134C4BC2004F80BB /* PlistBookmark */;
+			9AE2F5B1134C4BC2004F80BB /* PBXTextBookmark */ = 9AE2F5B1134C4BC2004F80BB /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9ACEF038134C4456009E6F34 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {995, 610}}";
+			sepNavSelRange = "{242, 0}";
+			sepNavVisRange = "{0, 245}";
+		};
+	};
+	8D1107260486CEB800E47090 /* TeleGoal */ = {
+		activeExec = 0;
+		executables = (
+			9ACEF027134C4455009E6F34 /* TeleGoal */,
+		);
+	};
+	9A834191134C4ECC00033A6D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3F00F4B6AF500CF3369 /* TeleGoal_Prefix.pch */;
+		name = "TeleGoal_Prefix.pch: 3";
+		rLen = 0;
+		rLoc = 26;
+		rType = 0;
+		vrLen = 175;
+		vrLoc = 0;
+	};
+	9ABC167D134DA31E00672A1D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 13";
+		rLen = 0;
+		rLoc = 242;
+		rType = 0;
+		vrLen = 245;
+		vrLoc = 0;
+	};
+	9ABC167E134DA31E00672A1D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* TeleGoalAppDelegate.h */;
+		name = "TeleGoalAppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 242;
+		rType = 0;
+		vrLen = 294;
+		vrLoc = 0;
+	};
+	9ABC167F134DA31E00672A1D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* TeleGoalAppDelegate.m */;
+		name = "TeleGoalAppDelegate.m: 15";
+		rLen = 0;
+		rLoc = 286;
+		rType = 0;
+		vrLen = 296;
+		vrLoc = 0;
+	};
+	9ABC16DC134DA75400672A1D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D53FFF8210EEBF2300519286 /* AppController.m */;
+		name = "AppController.m: 62";
+		rLen = 0;
+		rLoc = 1050;
+		rType = 0;
+		vrLen = 825;
+		vrLoc = 0;
+	};
+	9ABC16DF134DA7EF00672A1D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D53FFF8110EEBF2300519286 /* AppController.h */;
+		name = "AppController.h: 24";
+		rLen = 0;
+		rLoc = 406;
+		rType = 0;
+		vrLen = 425;
+		vrLoc = 0;
+	};
+	9ABC16E0134DA7EF00672A1D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D53FFF8210EEBF2300519286 /* AppController.m */;
+		name = "AppController.m: 62";
+		rLen = 0;
+		rLoc = 1050;
+		rType = 0;
+		vrLen = 825;
+		vrLoc = 0;
+	};
+	9ACEF027134C4455009E6F34 /* TeleGoal */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TeleGoal;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	9ACEF038134C4456009E6F34 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9ACEF039134C4456009E6F34 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9AE2F5B0134C4BC2004F80BB /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* TeleGoal-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/hugo/Documents/Programming/TeleGoal/TeleGoal-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	9AE2F5B1134C4BC2004F80BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	D53FFF8110EEBF2300519286 /* AppController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {995, 610}}";
+			sepNavSelRange = "{406, 0}";
+			sepNavVisRange = "{0, 425}";
+		};
+	};
+	D53FFF8210EEBF2300519286 /* AppController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {995, 884}}";
+			sepNavSelRange = "{1050, 0}";
+			sepNavVisRange = "{0, 825}";
+		};
+	};
+}

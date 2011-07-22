@@ -1,0 +1,218 @@
+TTeleGoal
+v7
+r0
+t323854040.548331
+cCheck dependencies
+cProcessInfoPlistFile /Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app/Contents/Info.plist TeleGoal-Info.plist
+cCopyStringsFile /Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/hugo/Documents/Programming/TeleGoal/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/Er/EruGxB-KEHaXKYA5xPg+0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TeleGoal_Prefix-fcqjcbzfwmevdverjitfjhakbyub/TeleGoal_Prefix.pch.gch TeleGoal_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TeleGoal.build/Debug/TeleGoal.build/Objects-normal/x86_64/main.o /Users/hugo/Documents/Programming/TeleGoal/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TeleGoal.build/Debug/TeleGoal.build/Objects-normal/x86_64/TeleGoalAppDelegate.o /Users/hugo/Documents/Programming/TeleGoal/TeleGoalAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TeleGoal.build/Debug/TeleGoal.build/Objects-normal/x86_64/AppController.o /Users/hugo/Documents/Programming/TeleGoal/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app/Contents/MacOS/TeleGoal normal x86_64
+cTouch /Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/hugo/Documents/Programming/TeleGoal/AppController.h
+c000000004D9D628600000000000001C4
+t1302160006
+s452
+i<Cocoa/Cocoa.h>
+
+N/Users/hugo/Documents/Programming/TeleGoal/AppController.m
+c000000004D9D652D0000000000000567
+t1302160685
+s1383
+i"AppController.h"
+
+N/Users/hugo/Documents/Programming/TeleGoal/English.lproj/InfoPlist.strings
+c000000004B3E49D8000000000000002D
+t1262373336
+s45
+
+N/Users/hugo/Documents/Programming/TeleGoal/English.lproj/MainMenu.xib
+c000000004D9D669B00000000000362CD
+t1302161051
+s221901
+
+N/Users/hugo/Documents/Programming/TeleGoal/TeleGoalAppDelegate.h
+c000000004D9C11880000000000000126
+t1302073736
+s294
+i<Cocoa/Cocoa.h>
+
+N/Users/hugo/Documents/Programming/TeleGoal/TeleGoalAppDelegate.m
+c000000004D9D67320000000000000128
+t1302161202
+s296
+i"TeleGoalAppDelegate.h"
+
+N/Users/hugo/Documents/Programming/TeleGoal/TeleGoal_Prefix.pch
+c000000004D9C0E4B00000000000000AF
+t1302072907
+s175
+i<Cocoa/Cocoa.h>
+
+N/Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app
+t1302161240
+s102
+
+N/Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app/Contents/Info.plist
+t1302161239
+s889
+
+N/Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app/Contents/MacOS/TeleGoal
+t1302161240
+s16152
+
+N/Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app/Contents/PkgInfo
+t1302161239
+s8
+
+N/Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1302161240
+s92
+
+N/Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app/Contents/Resources/English.lproj/MainMenu.nib
+t1302161240
+s42356
+
+N/Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/Objects-normal/x86_64/AppController.o
+t1302161240
+s16476
+
+N/Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/Objects-normal/x86_64/TeleGoal.LinkFileList
+c000000004D9D6757000000000000016E
+t1302161239
+s366
+
+N/Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/Objects-normal/x86_64/TeleGoalAppDelegate.o
+t1302161240
+s21136
+
+N/Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/Objects-normal/x86_64/main.o
+t1302161240
+s5000
+
+N/Users/hugo/Documents/Programming/TeleGoal/main.m
+c000000004D9C0E4500000000000000F5
+t1302072901
+s245
+i<Cocoa/Cocoa.h>
+
+N/var/folders/Er/EruGxB-KEHaXKYA5xPg+0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TeleGoal_Prefix-fcqjcbzfwmevdverjitfjhakbyub/TeleGoal_Prefix.pch.gch
+t1302075162
+s54265616
+
+NTeleGoal-Info.plist
+c000000004B3E49D800000000000003EA
+t1262373336
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323854039#323854039#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/TeleGoal.build/Debug/TeleGoal.build/Objects-normal/x86_64/AppController.o /Users/hugo/Documents/Programming/TeleGoal/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s323854040.381046
+e323854040.513941
+r1
+xCompileC
+xbuild/TeleGoal.build/Debug/TeleGoal.build/Objects-normal/x86_64/AppController.o
+x/Users/hugo/Documents/Programming/TeleGoal/AppController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/hugo/Documents/Programming/TeleGoal/AppController.m323854040#323854040#0(0"0(0#0#58"/Users/hugo/Documents/Programming/TeleGoal/AppController.m8602636960#1532"    cd /Users/hugo/Documents/Programming/TeleGoal    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/TeleGoal-generated-files.hmap -I/Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/TeleGoal-own-target-headers.hmap -I/Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/TeleGoal-all-target-headers.hmap -iquote /Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/TeleGoal-project-headers.hmap -F/Users/hugo/Documents/Programming/TeleGoal/build/Debug -I/Users/hugo/Documents/Programming/TeleGoal/build/Debug/include -I/Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/DerivedSources/x86_64 -I/Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/DerivedSources -include /var/folders/Er/EruGxB-KEHaXKYA5xPg+0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TeleGoal_Prefix-fcqjcbzfwmevdverjitfjhakbyub/TeleGoal_Prefix.pch -c /Users/hugo/Documents/Programming/TeleGoal/AppController.m -o /Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/Objects-normal/x86_64/AppController.o0#
+
+CCompileC build/TeleGoal.build/Debug/TeleGoal.build/Objects-normal/x86_64/TeleGoalAppDelegate.o /Users/hugo/Documents/Programming/TeleGoal/TeleGoalAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s323854040.257659
+e323854040.412621
+r1
+xCompileC
+xbuild/TeleGoal.build/Debug/TeleGoal.build/Objects-normal/x86_64/TeleGoalAppDelegate.o
+x/Users/hugo/Documents/Programming/TeleGoal/TeleGoalAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/hugo/Documents/Programming/TeleGoal/TeleGoalAppDelegate.m323854040#323854040#0(0"0(0#0#64"/Users/hugo/Documents/Programming/TeleGoal/TeleGoalAppDelegate.m8602675360#1544"    cd /Users/hugo/Documents/Programming/TeleGoal    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/TeleGoal-generated-files.hmap -I/Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/TeleGoal-own-target-headers.hmap -I/Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/TeleGoal-all-target-headers.hmap -iquote /Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/TeleGoal-project-headers.hmap -F/Users/hugo/Documents/Programming/TeleGoal/build/Debug -I/Users/hugo/Documents/Programming/TeleGoal/build/Debug/include -I/Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/DerivedSources/x86_64 -I/Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/DerivedSources -include /var/folders/Er/EruGxB-KEHaXKYA5xPg+0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TeleGoal_Prefix-fcqjcbzfwmevdverjitfjhakbyub/TeleGoal_Prefix.pch -c /Users/hugo/Documents/Programming/TeleGoal/TeleGoalAppDelegate.m -o /Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/Objects-normal/x86_64/TeleGoalAppDelegate.o0#
+
+CCompileC build/TeleGoal.build/Debug/TeleGoal.build/Objects-normal/x86_64/main.o /Users/hugo/Documents/Programming/TeleGoal/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s323854040.256653
+e323854040.380951
+r1
+xCompileC
+xbuild/TeleGoal.build/Debug/TeleGoal.build/Objects-normal/x86_64/main.o
+x/Users/hugo/Documents/Programming/TeleGoal/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/hugo/Documents/Programming/TeleGoal/main.m323854040#323854040#0(0"0(0#0#49"/Users/hugo/Documents/Programming/TeleGoal/main.m8602739296#1514"    cd /Users/hugo/Documents/Programming/TeleGoal    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/TeleGoal-generated-files.hmap -I/Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/TeleGoal-own-target-headers.hmap -I/Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/TeleGoal-all-target-headers.hmap -iquote /Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/TeleGoal-project-headers.hmap -F/Users/hugo/Documents/Programming/TeleGoal/build/Debug -I/Users/hugo/Documents/Programming/TeleGoal/build/Debug/include -I/Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/DerivedSources/x86_64 -I/Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/DerivedSources -include /var/folders/Er/EruGxB-KEHaXKYA5xPg+0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TeleGoal_Prefix-fcqjcbzfwmevdverjitfjhakbyub/TeleGoal_Prefix.pch -c /Users/hugo/Documents/Programming/TeleGoal/main.m -o /Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/hugo/Documents/Programming/TeleGoal/English.lproj/MainMenu.xib
+s323854039.628250
+e323854040.256475
+r1
+xCompileXIB
+x/Users/hugo/Documents/Programming/TeleGoal/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/hugo/Documents/Programming/TeleGoal/English.lproj/MainMenu.xib:494: warning: The 'window' outlet of 'Outlets And Actions App Delegate' is connected to 'Window (TeleGoal)' but 'window' is no longer defined on IBOutletsAndActionsAppDelegate.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib323854039#323854040#0(288"/* com.apple.ibtool.document.warnings *//Users/hugo/Documents/Programming/TeleGoal/English.lproj/MainMenu.xib:494: warning: The 'window' outlet of 'Outlets And Actions App Delegate' is connected to 'Window (TeleGoal)' but 'window' is no longer defined on IBOutletsAndActionsAppDelegate.1(22@162"The 'window' outlet of 'Outlets And Actions App Delegate' is connected to 'Window (TeleGoal)' but 'window' is no longer defined on IBOutletsAndActionsAppDelegate.323854040#18446744073709551615#0#0(6@69"/Users/hugo/Documents/Programming/TeleGoal/English.lproj/MainMenu.xib323853851#494#0#494#0#0"0(0#0#69"/Users/hugo/Documents/Programming/TeleGoal/English.lproj/MainMenu.xib8600694624#377"    cd /Users/hugo/Documents/Programming/TeleGoal    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app/Contents/Resources/English.lproj/MainMenu.nib /Users/hugo/Documents/Programming/TeleGoal/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s323854039.627467
+e323854040.041240
+r1
+xCopyStringsFile
+x/Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings323854039#323854040#0(0"0(0#0#74"/Users/hugo/Documents/Programming/TeleGoal/English.lproj/InfoPlist.strings29555336417837168#374"    cd /Users/hugo/Documents/Programming/TeleGoal    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app/Contents/Resources/English.lproj0#
+
+CLd /Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app/Contents/MacOS/TeleGoal normal x86_64
+s323854040.514019
+e323854040.545796
+r1
+xLd
+x/Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app/Contents/MacOS/TeleGoal
+xnormal
+xx86_64
+lSLF07#2@96"Link /Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app/Contents/MacOS/TeleGoal323854040#323854040#0(0"0(0#0#0"8602938912#567"    cd /Users/hugo/Documents/Programming/TeleGoal    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/hugo/Documents/Programming/TeleGoal/build/Debug -F/Users/hugo/Documents/Programming/TeleGoal/build/Debug -filelist /Users/hugo/Documents/Programming/TeleGoal/build/TeleGoal.build/Debug/TeleGoal.build/Objects-normal/x86_64/TeleGoal.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app/Contents/MacOS/TeleGoal0#
+
+CProcessInfoPlistFile /Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app/Contents/Info.plist TeleGoal-Info.plist
+s323854039.621399
+e323854039.627259
+r1
+xProcessInfoPlistFile
+x/Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app/Contents/Info.plist
+xTeleGoal-Info.plist
+lSLF07#2@27"Process TeleGoal-Info.plist323854039#323854039#0(0"0(0#0#62"/Users/hugo/Documents/Programming/TeleGoal/TeleGoal-Info.plist13229766294700130#325"    cd /Users/hugo/Documents/Programming/TeleGoal    builtin-infoPlistUtility TeleGoal-Info.plist -genpkginfo /Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/Er/EruGxB-KEHaXKYA5xPg+0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TeleGoal_Prefix-fcqjcbzfwmevdverjitfjhakbyub/TeleGoal_Prefix.pch.gch TeleGoal_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app
+s323854040.545876
+e323854040.548182
+r1
+xTouch
+x/Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app
+lSLF07#2@73"Touch /Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app323854040#323854040#0(0"0(0#0#0"8602762592#140"    cd /Users/hugo/Documents/Programming/TeleGoal    /usr/bin/touch -c /Users/hugo/Documents/Programming/TeleGoal/build/Debug/TeleGoal.app0#
+
